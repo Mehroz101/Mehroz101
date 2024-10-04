@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Mern Stack Projects<br>👯 I’m looking to collaborate on MERN Projects<br>🌱 I’m currently learning MongoDB<br>💬 Ask me about Web Development<br>
+🔭 I’m currently working on Mern Stack Projects<br>👯 I’m looking to collaborate on MERN Projects<br>🌱 I’m currently working on smart parking solution<br>💬 Ask me about Web Development<br>
 
 
 ## 🌐 Socials:
