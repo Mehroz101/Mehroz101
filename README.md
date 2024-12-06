@@ -14,5 +14,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mehroz101&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mehroz101&project)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
